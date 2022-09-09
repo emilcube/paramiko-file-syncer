@@ -5,7 +5,7 @@ Programms sync files in two folders: local - "basePath1" and remote - "basePath2
 Note: programm sync only files (without sync directories)
 Synchronization is being done by copying files.
 
-#Settings:
+# settings:
 sleep_time = 20 # parameter of periodic synchronizations - sync every 20 secs
 basePath1 = "local_path"
 basePath2 = "remote_path"
