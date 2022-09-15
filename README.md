@@ -10,8 +10,8 @@ sleep_time = 20 # parameter of periodic synchronizations - sync every 20 secs
 basePath1 = "local_path",
 basePath2 = "remote_path"
 
-Change remote server settings (in function get_sftp_instance)
-host = "144.144.144.144",
-port = 22,
-password = "abc",
-username = "abc"
+Change remote server settings (in function get_sftp_instance):
+host,
+port,
+password,
+username
